@@ -11,7 +11,7 @@ The content is as follows:
 - itinerario_casoli.umap: the umap file with all qrcodes with active markers
 - itinerario_casoli.geojson: the geojson file with all the points and their additional properties (description etc)
 - qr_template.umap: the template to generate the umap file from the geojson, using the qrcode-gen tool
-- missing item
+- an svg file containing all QR tags ready for replacement of the old ones. The file is produced with the qrcode-gen tool
 
 The uMap map with the data is reachable at https://umap.openstreetmap.fr/it/map/itinerario-casoli_977406.
 
